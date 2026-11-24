@@ -1,0 +1,9 @@
+{
+  "name": "GymStats Pro",
+  "short_name": "GymStats",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090d0b",
+  "theme_color": "#090d0b",
+  "description": "Entrenador personal con seguimiento de progresión"
+}

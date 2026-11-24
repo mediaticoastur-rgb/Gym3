@@ -1,0 +1,22 @@
+GYMSTATS PRO v3 — RUTINA INICIAL + ENTRENADOR ADAPTATIVO
+
+INCLUYE
+- Rutina de iniciación de cuerpo completo para 3 días por semana (A/B/C).
+- Cada ejercicio muestra una ilustración local y un botón «Usar» que lo prepara en la pantalla Entrenar.
+- Primeras 2 semanas: 2 series por ejercicio; después, si te recuperas bien, puedes pasar a 3.
+- Registro de entrenamientos, peso corporal, historial y exportación CSV.
+- Mi entrenador analiza registros comparables y muestra propuestas de progresión cuando detecta señales consistentes.
+- Las molestias bloquean las propuestas de subida. Puedes aceptar o descartar las propuestas; nunca cambia el peso por su cuenta.
+- Los datos se guardan en el navegador de este dispositivo. No se envían a un servidor.
+
+USO
+1. Descomprime GymStats_Pro_v3.zip.
+2. Para probarla, abre index.html en un navegador.
+3. Para instalarla como aplicación y habilitar el modo sin conexión, publícala en un alojamiento HTTPS (por ejemplo GitHub Pages), abre la dirección en Chrome Android y elige ⋮ > Instalar aplicación / Añadir a pantalla de inicio.
+4. En Rutina, pulsa «Usar» junto al ejercicio; en Entrenar introduce el peso que utilizaste y pulsa «Añadir ejercicio». Guarda la sesión al terminar.
+
+PROGRESIÓN SEGURA
+Elige una carga con la que puedas terminar las series manteniendo 2–3 repeticiones en reserva. Aumenta solo cuando completes el rango alto con buena técnica en sesiones repetidas y sin molestias. Si aparece dolor, para el ejercicio y pide orientación profesional.
+
+RESPALDO
+Exporta el historial CSV desde la pestaña Historial. Los registros se guardan localmente; si borras los datos del navegador, podrías perderlos.
